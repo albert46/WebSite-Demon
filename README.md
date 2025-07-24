@@ -1,4 +1,3 @@
 # Project Web
 
-
-# Project Web is old.
+Project Web is old.
